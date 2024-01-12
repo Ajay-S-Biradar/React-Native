@@ -1,0 +1,21 @@
+[{
+    "url": "IMG_20230328_231050.jpg",
+    "date": "",
+    "people": ["ajay","hardik"],
+    "place": "MC PG",
+    "orientation": "vertical"
+},
+{
+    "url": "IMG_20230329_003031.jpg",
+    "date": "",
+    "people": ["ajay","hardik","ayush"],
+    "place": "MC PG",
+    "orientation": "horizontal"
+},
+{
+    "url": "IMG_20230329_064830.jpg",
+    "date": "",
+    "people": ["ajay","hardik","ayush","yash","sujal","ashish","shubham","shivam"],
+    "place": "Train to Wonderla",
+    "orientation": ""
+}]

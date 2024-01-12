@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Card1", "image1": "indiv-sad", "image2": "indiv-happy", "linkTo": "/card/1", "color": "#e1efef", "text1": "Therapy for me", "text2": "Individual", "text3": "Get Started" },
+    { "id": 2, "title": "Card2", "image1": "teens-sad", "image2": "teens-happy", "linkTo": "/card/2", "color": "#f2fbcc", "text1": "For ages 13-17", "text2": "Teens", "text3": "Get Started" },
+    { "id": 3, "title": "Card3", "image1": "couples-sad", "image2": "couples-happy", "linkTo": "/card/3", "color": "#e1e5f0", "text1": "Therapy for us", "text2": "Couples", "text3": "Get Started" },
+    { "id": 4, "title": "Card4", "image1": "elderly-sad", "image2": "elderly-happy", "linkTo": "/card/4", "color": "#f1ddde", "text1": "Psychiatry and prescriptions", "text2": "Elderly", "text3": "Get Started" }
+]
